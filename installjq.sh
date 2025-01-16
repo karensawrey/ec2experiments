@@ -53,3 +53,4 @@ fi
 
 # Voila!
 echo '{"message": "Bootstrap script completed successfully! Voila!"}'
+
